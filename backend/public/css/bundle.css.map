@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;EACE,yDAAmD;EACnD,4BAA4B;EAC5B,0BAA0B;AAC5B,C","sources":["webpack://js-fullstack-proy/./frontend/styles/app.css"],"sourcesContent":["body{\r\n  background-image: url('image/biblioteca-fondo.jpg');\r\n  background-repeat: no-repeat;\r\n  background-size: 100% 100%;\r\n}"],"names":[],"sourceRoot":""}
